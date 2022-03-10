@@ -1,4 +1,4 @@
-*SI LE FRONT N'AFFICHE RIEN C'EST QUE LA CLE API NE FONCTIONNE PAS*
+**SI LE FRONT N'AFFICHE RIEN C'EST QUE LA CLE API NE FONCTIONNE PAS**
 
 Dans ce cas la clé api pour les requetes est obsolète (trop de requetes)
 
